@@ -1,2 +1,2 @@
 # CS174A-Project
-Minecraft PUBG
+Minecraft PUBG(Mobile)
